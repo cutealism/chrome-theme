@@ -16,9 +16,9 @@
          "tab_text":[ 255, 34, 168 ],
          "tab_background_text":[ 116, 154, 29 ],
          "bookmark_text":[ 255, 34, 168 ],
-         "button_background":[ 174, 252, 0 ],
-         "control_background": [ 174, 252, 0 ],
-         "toolbar_button_icon": [ 174, 252, 0 ]
+         "button_background":[ 255, 34, 168 ],
+         "control_background": [ 255, 34, 168 ],
+         "toolbar_button_icon": [ 255, 34, 168 ]
       },
       "properties": {
           "ntp_logo_alternate": 1,
